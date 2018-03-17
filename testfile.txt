@@ -1,3 +1,7 @@
 testfile
 
+<<<<<<< HEAD
 other changessss
+=======
+lalalal
+>>>>>>> 099cec23fbf0a097d007374505baff723dc8dc35
